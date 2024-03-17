@@ -11,7 +11,7 @@ This project is a simple HTML & CSS clone of a Linktree-like site, serving as a 
 
 ## Demo
 
-[View Demo](linktree.ahmedbazina.com) - Add a link to your live demo once deployed.
+[View Demo](https://linktree.ahmedbazina.com) - Add a link to your live demo once deployed.
 
 ## Screenshots
 
